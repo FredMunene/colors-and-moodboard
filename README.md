@@ -5,7 +5,7 @@
 ## 2. Color palettes with color codes(Done)
  A Figma file including screenshots of the main page for all the 7 websites, URL and extracted colors next to the screenshots.
 
-## 3. Color combinations
+## 3. Color combinations (Done)
 ## 4. Moodboard(Done)
  - 4 different mood boards based on below 4 briefs and with a color palette.
 
@@ -29,7 +29,11 @@ A Figma file with 4 moodboards from the "Moodboard" exercise, and typography:
     - 1 for a description
     - 1 for the text
 
-## 7. UI Challenge - Timer
+## 7. UI Challenge - Timer (Done)
+## 8. UI Challenge - Watches (Done)
+## 9. UI Challenge - Flight (Done)
+## 10. UI Challenge - Spotify (Done)
+## 11. UI Challenge - Bitcoin Dashboard
 
 ## Navigating Figma Shortcuts
 - to see distance, select element, press "Alt"
