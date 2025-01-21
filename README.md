@@ -1,5 +1,7 @@
 # Colors and Moodboard
 
+To practice colors, moodboards, typography and replicate screens on Figma!
+
 ## 1. Find the colors(Done)
 
 ## 2. Color palettes with color codes(Done)
@@ -33,7 +35,7 @@ A Figma file with 4 moodboards from the "Moodboard" exercise, and typography:
 ## 8. UI Challenge - Watches (Done)
 ## 9. UI Challenge - Flight (Done)
 ## 10. UI Challenge - Spotify (Done)
-## 11. UI Challenge - Bitcoin Dashboard
+## 11. UI Challenge - Bitcoin Dashboard (Done)
 
 ## Navigating Figma Shortcuts
 - to see distance, select element, press "Alt"
